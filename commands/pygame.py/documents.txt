@@ -1,0 +1,35 @@
+ctrl+c = copy
+ctrl+x = cut
+ctrl+v = paste
+ctrl+z = go back in time 
+ctrl+A = selects all
+ctrl+p = search files by name
+ctrl+p> = search for settings
+ctrl+h = look for words in the current files
+ctrl+s = save
+ctrl+l = selects the whole line
+alt + l + o = open live server fast
+alt + shift + arrow down = copy and moves the line or lines down 1 space
+ctrl + , = takes you to settings
+
+HTML SHORTCUTS
+h1 (or any number) + tab or enter = creates the tags
+this works for several = p,li,img,etc
+
+TERMINAL COMMANDS
+cd = change directory
+cd .. = take u one folder back
+cd + *path* pf the folder = take u to the folder u want
+mkdir
+
+BASH
+1. cd = change directory
+2. cd .. = take you one folder back
+3. cd + path of the folder = take you to the folder you want
+4. mkdir + nameOfTheFolder =  creates a folder
+5. touch + nameOfTheFolder =  creates a file
+
+GIT COMMANDS
+1. git add + fileName = adds the file to stage
+2. git add . = adds all the files
+3. git commit -m "here goes the message" = commits your files.
